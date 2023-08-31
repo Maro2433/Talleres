@@ -1,0 +1,17 @@
+Secciones
+
+El header es la cabezera de la pagina, donde podemos poner una barra de navegación y demás cosas.
+
+Main
+Se define el contenido principal de un proyecto, normalmente se establecen las secciones que es el contenido que se va a trabajar dentro de la main, tambien están los articules y los aside.
+
+Section (Contenido de mi pagina web)
+Article (Secciones Laterales -- Articulos -- Comentarios)
+Aside (Barras o menús laterales de mi pagina web)
+
+Footer (Contenido final de una pagina web)
+Tambien se puede poner una barra de navegación.
+
+I frame 
+Nos permite inyectar o crear contenido dentro de otra pagina web.
+
