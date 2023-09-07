@@ -1,0 +1,7 @@
+tr--Filas
+td--Columnas
+th--Encabezado de Tablas
+
+Style
+Se sobreentiende que usaremos los estilos de html.
+
