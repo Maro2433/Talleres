@@ -1,0 +1,11 @@
+autoplay hace que se reproduzca un video sin necesidad de darle click a play.
+
+controls etiqueta que se usa para manejar los videos de una pagina.
+
+loop hace que se repita el video o audio mp3 infinitas veces.
+
+
+poster permite mostrar una imagen antes de empezar a reproducir un video pero al tener esta propiedad se debe quitar el autoplay.
+
+
+
